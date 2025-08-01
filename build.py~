@@ -1,7 +1,0 @@
-from pathlib import Path
-import subprocess
-from sys import argv as args
-
-def run_command(command):
-    print(command)
-    subprocess.run(command, shell=True)
