@@ -2,4 +2,4 @@
 *~
 
 # objfiles
-*.o
+*.omakefile
